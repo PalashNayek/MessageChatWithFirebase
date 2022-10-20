@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "985223939980",
+    "project_id": "interview-5d688",
+    "storage_bucket": "interview-5d688.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985223939980:android:02197cfa129703a90b38a9",
+        "android_client_info": {
+          "package_name": "com.palash.messagechatwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985223939980-7v2ra7kthhgd708d5d117dg8saqufm50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgkOD9iE3EvXZLZMuOASAvQQG9C7Uwu5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985223939980-7v2ra7kthhgd708d5d117dg8saqufm50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
